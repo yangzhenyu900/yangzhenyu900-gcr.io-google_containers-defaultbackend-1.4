@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/defaultbackend:1.4
+FROM tomcat
 MAINTAINER 15001207194@163.com
